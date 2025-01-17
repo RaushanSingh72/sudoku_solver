@@ -1,2 +1,2 @@
-# sudoku_solver
-Sudoku solver mini project
+# Sudoku_Solver
+ java mini project
